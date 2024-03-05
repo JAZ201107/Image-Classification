@@ -1,0 +1,3 @@
+IMAGE_SIZE = 64
+TRAIN_SPLIT = 0.8
+MODEL_END = ".pth.tar"

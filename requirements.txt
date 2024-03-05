@@ -1,0 +1,8 @@
+torch
+numpy
+Pillow
+tabulate
+tqdm
+torchvision
+
+gdown
